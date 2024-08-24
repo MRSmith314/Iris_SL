@@ -2,5 +2,6 @@
 
 # Iris Flowers Supervised Learning Model
 The dataset for this project is evenly divided between three species
+![image](https://github.com/user-attachments/assets/f454ca30-9f91-4042-a7e6-56b2667fddc2)
 
 
